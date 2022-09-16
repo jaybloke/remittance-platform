@@ -1,10 +1,9 @@
-### Real-time Money Transfer/Remittance Platform 
-	IMPORTANT DETAIL																																							
-	In order to insert a suggestion that uses a PivotTable or formula, your data was organized in columns with a single header row.																																							
-																																								
-																																								
-																																								
-	CONSOLIDATED BALANCE SHEETS - USD ($) $ in Millions	Sep. 29th., 2020	Dec. 31, 2021		0																																			
+'"'S''T''A''R''T'':'':'' :'
+'"'#'':' ':''#''#'':'':''B''E''G''I''N'':'':'' :'
+'"'{'%'' '"'R''.''T''.''P'' '"'':''"'' '"<\MICR/>":,'' '"a0000000":,'' '"c000000000000c":,'' '"9999999999a":,'' ':','<'\focus'/'>'":,'' '%'}'*'"'*':'":,''
+'N'P'R'T//"P'O'S'T'' '\'":,'' '"DETAIL":,''
+	
+	'"CONSOLIDATED BALANCE SHEETS - USD ($) $ in Millions	Sep. 29th., 2020	Dec. 31, 2021'":,''		0																																			
 	Current assets:				0																																			
 	Cash and cash equivalents	26465	18498		0																																			
 	Marketable securities	110229	101177		0																																			
@@ -39,8 +38,8 @@
 	Total liabilities	97072	74467		0																																			
 	Commitments and Contingencies (Note 10)	 	 		0																																			
 	Stockholders’ equity:				0																																			
-	Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued and outstanding	0	0		0																																			
-	Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par value per share: 15,000,000 shares authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000); 688,335 (Class A 299,828, Class B 46,441, Class C 342,066) and 675,222 (Class A 300,730, Class B 45,843, Class C 328,649) shares issued and outstanding	58510	50552		0																																			
+	'"Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued and outstanding'"':',''	0	0		0																																			
+	'"Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par value per share: 15,000,000 shares authorized (Class A 9,000,000, Class B 3,000,000, Class C 3,000,000); 688,335 (Class A 299,828, Class B 46,441, Class C 342,066) and 675,222 (Class A 300,730, Class B 45,843, Class C 328,649) shares issued and outstanding'":,''	58510	50552		0																																			
 	Accumulated other comprehensive income (loss)	633	-1232		0																																			
 	Retained earnings	163401	152122		0																																			
 	Total stockholders’ equity	222544	201442		0																																			
@@ -3974,18 +3973,18 @@ date"
 							   ALPHABET INC																																	
 							   is more than five percent of the total outstanding common shares.																																	
 																																								
-							Item 7. Identification and Classification of the Subsidiary Which																																	
+							'"'Item'' '7'.'' 'Identification'' 'and'' 'Classification'' 'of'' 'the'' 'Subsidiary'' 'Which''																																	
 							Acquired the Security Being Reported on by the Parent Holding																																	
-							Company or Control Person.																																	
+							'"Company or Control Person'.'":,''																																	
+																																								
+							'"Zachry Tyler Wood	'":,''																																
+							See '"'Exhibit'' 'A'"''																																	
+																																								
+																																								
+							'"'Item'' '8'.'' 'Identification'' 'and'' 'Classification'' 'of'' 'Members'' 'of'' 'the'' 'Group'":,''																																	
 																																								
 							Zachry Tyler Wood																																	
-							See Exhibit A																																	
-																																								
-																																								
-							Item 8. Identification and Classification of Members of the Group																																	
-																																								
-							Zachry Tyler Wood																																	
-							If a group has filed this schedule pursuant to Rule 13d-1(b)(ii)(J),																																	
+							'"'If'' 'a'' 'group'' 'has'' 'filed'' 'this'' 'schedule'' 'pursuant'' 'to'' 'Rule'' '13d'-1'(b')'(ii')'('J')',''																																	
 							so indicate under Item 3(j) and attach an exhibit stating the identity																																	
 							and Item 3 classification of each member of the group. If a group																																	
 							has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d),																																	
@@ -3994,7 +3993,8 @@ date"
 							Sergeiy Brin																																	
 							Item 9. Notice of Dissolution of Group																																	
 																																								
-							Notice of dissolution of a group may be furnished as an exhibit																																	
+							'"Notice'' 'R'E'Q''U'I'R'E'D'' 'F'O'R'' 'C'L'A'I'M'' 'F'O'R'' 'P'A'Y'' 'Other'-than'(for'' 'Award')"''
+							of a group may be furnished as an exhibit																																	
 							stating the date of the dissolution and that all further filings with																																	
 							respect to transactions in the security reported on will be filed,																																	
 							if required, by members of the group, in their individual capacity.																																	
@@ -4142,30 +4142,30 @@ date"
 							</DOCUMENT																																	
 Client defaulted on commissioned remittance platform and now looking to recuperate development costs.
 
-## Features
+'"'#''#'"'':'':'Features'"''
 
-- KYC document management and verification system
-- Easy management of beneficiaries and bank accounts
-- Real-time exchange rates
-- Money transfer with simple integration to PSPs and 3DS
-- Transfer history
-- Email alerts
-- Reporting and statistics dashboard
-- MFA enabled authentication
+'-'' KYC document management and verification system
+'-'' Easy management of beneficiaries and bank accounts
+'-'' Real-time exchange rates
+'-'' Money transfer with simple integration to PSPs and 3DS
+'-'' Transfer history
+'-'' e-mail alerts
+'-'' Reporting and statistics dashboard
+'-'' MFA enabled authentication
 
-## Tech Stack
+'#''#'' '"Tech'' ''Stack"''
 
-- Ruby on Rails 7.0.3
-- Postgresql 14.2
-- Redis 6
-- Fully containerized application for easy cloud agnostic deployment 
+'-'' 'Ruby on Rails 7.0.3
+'-'' 'Postgresql 14.2
+'-'' 'Redis 6
+'-'' 'Crates.u'' 'container'.ios'' 'application'' 'for'' 'easy'' 'cloud'' 'agnostic'' 'deployment'"'' 
 
 
-## Demo
+# :deno'.xml ::Update :autoupdates :Every -0 sec
 
 [https://remittance.io/demo](https://send.finansay.com/?demo=github)
 
 
-## Contact
+# :Contact
 
 Interested in learning more? Please [contact us](sales@elasticteams.io).
